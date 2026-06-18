@@ -115,7 +115,12 @@ Dashboard Design
 Business Storytelling
 Dashboard Preview
 
-(Add your Power BI dashboard screenshots here)
+<img width="1352" height="767" alt="Executive  Overview Dashboard 1" src="https://github.com/user-attachments/assets/4e7cc53f-f4a9-429e-afa3-3a3f3eededdf" />
+
+<img width="1346" height="762" alt="Customer Risk Analysis Dashboard 2" src="https://github.com/user-attachments/assets/e86fc4f4-0fb6-401e-b9e0-ecded933f833" />
+
+<img width="1352" height="766" alt="Revenue   Retention Strategy Dashboard 3" src="https://github.com/user-attachments/assets/0fc7170a-aac9-4fdc-8774-d0dbd55161a7" />
+
 
 Executive Overview
 
